@@ -1,2 +1,2 @@
 # Whisper from OpenAI
-Transcribes audio files
+WhisperAI transcribes audio files that are <25 MB
