@@ -1,2 +1,2 @@
 # Whisper from OpenAI
-# Transcribes audio files
+Transcribes audio files
